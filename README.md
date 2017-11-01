@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -23,6 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
 # FoodXpress
->>>>>>> 8cb6b14dc4e38910e979539b1f3a519e026f6d97
